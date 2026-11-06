@@ -17,5 +17,8 @@ def login_function():
     print('You are not allowed here!')
     return False
 
+def register():
+    return True
+
 def dev_avance():
     return True
