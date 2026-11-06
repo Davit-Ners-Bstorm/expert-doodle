@@ -16,3 +16,6 @@ def test_checkout():
 def login_function():
     print('You are not allowed here!')
     return False
+
+def register():
+    return True
