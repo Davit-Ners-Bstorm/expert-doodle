@@ -6,3 +6,6 @@ def my_min(a, b):
 
 def my_mult(a, b):
     return a * b
+
+def my_div(a, b):
+    return a / b
