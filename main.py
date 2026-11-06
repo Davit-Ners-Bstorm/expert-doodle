@@ -22,3 +22,6 @@ def register():
 
 def dev_avance():
     return True
+
+def slider():
+    return True
