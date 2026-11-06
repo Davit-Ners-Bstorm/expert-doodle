@@ -12,3 +12,7 @@ def my_div(a, b):
 
 def test_checkout():
     return True
+
+def login_function():
+    print('You are not allowed here!')
+    return False
