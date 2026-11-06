@@ -25,3 +25,6 @@ def dev_avance():
 
 def slider():
     return True
+
+def accordeon():
+    return False
