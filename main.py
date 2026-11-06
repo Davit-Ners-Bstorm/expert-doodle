@@ -9,3 +9,6 @@ def my_mult(a, b):
 
 def my_div(a, b):
     return a / b
+
+def test_checkout():
+    return True
